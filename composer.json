@@ -1,0 +1,15 @@
+{
+    "name": "vantu/mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "vantuong",
+            "email": "vantuong197@gmail.com"
+        }
+    ],
+    "require": {}
+}
